@@ -3,6 +3,8 @@
 <div align="center">
 SimpleSetSpawn it's literally what it name says, a simple set spawn plugin.
 
+[Download it here!](https://www.spigotmc.org/resources/simplesetspawn.106488/)
+
 </div>
 
 ---
