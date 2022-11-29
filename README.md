@@ -18,6 +18,7 @@ This is my first ever Plugin that I posted in my whole life, I'm a very very new
 ## Commands
 
 - **/simplesetspawn or /sss** -> Main command.
+- **/simplesetspawn help** -> Commands list.
 - **/simplesetspawn info** -> Information about the plugin.
 - **/simplesetspawn donate** -> To help me with future projects :D
 - **/simplesetspawn reload** -> Reaload config.yml
