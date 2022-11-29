@@ -1,0 +1,9 @@
+# Welcome to the SimpleSetSpawn config.yml.
+# A simple plugin, needs a simple config.
+# Be aware that everything it's going to improve and change, expect big changes - MrStreeet.
+
+Config:
+  #This will teleport always the players on join to the server.
+  Teleport-On-Join: true
+
+Spawn:
