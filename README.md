@@ -43,7 +43,7 @@ So please, this is a very very simple plugin (for the momment), so be aware of f
 
 ## To add
 
-- [ ] Update checker
+- [X] Update checker
 - [ ] Add a countdown
 - [ ] Add more customization (messages, prefix, etc)
 - [ ] Teleport effects
