@@ -29,6 +29,7 @@ This is my first ever Plugin that I posted in my whole life, I'm a very very new
 ## Permissions
 
 - simplesetspawn.admin -> Access to all the functions of the plugin.
+- simplesetspawn.spawn -> Use the command "/spawn
 
 ## Features
 
