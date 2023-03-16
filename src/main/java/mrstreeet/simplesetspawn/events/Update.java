@@ -27,7 +27,7 @@ public class Update implements Listener {
         FileConfiguration config = plugin.getConfig();
 
         String pathtp = "Config.Check-For-Updates";
-        if (config.getString(pathtp).equals("true")){
+        if (config.getBoolean(pathtp)){
             if (p.hasPermission("simplesetspawn.admin")) {
 
                 new UpdateChecker(SimpleSetSpawn.getPlugin(), 106488).getLatestVersion(version -> {

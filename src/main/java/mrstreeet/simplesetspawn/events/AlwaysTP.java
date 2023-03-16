@@ -26,7 +26,7 @@ public class AlwaysTP implements Listener {
         FileConfiguration config = plugin.getConfig();
 
         String pathtp = "Config.Teleport-On-Join";
-        if (config.getString(pathtp).equals("true")){
+        if (config.getBoolean(pathtp)){
             if (config.contains("Spawn.X")){
                 double x = Double.valueOf(config.getString("Spawn.X"));
                 double y = Double.valueOf(config.getString("Spawn.Y"));
