@@ -1,6 +1,8 @@
-![gsdgdfg](https://user-images.githubusercontent.com/50084238/204422596-8a2b2ed2-7d8d-4a4d-8b80-839f195fe763.png)
 
 <div align="center">
+
+![SIMPLESETSPAWN-21-3-2023](https://user-images.githubusercontent.com/50084238/226599943-29788034-f90e-4ecc-a7bd-3ded2b15cacf.png)
+
 SimpleSetSpawn it's literally what it name says, a simple set spawn plugin.
 
 [Download it here!](https://www.spigotmc.org/resources/simplesetspawn.106488/)
@@ -33,7 +35,8 @@ This is my first ever Plugin that I posted in my whole life, I'm a very very new
 
 ## Features
 
-###### You can change this in config.yml 
+###### You can change this in config.yml
+
 
 - Teleport-On-Join feature -> All the players will be teleported once they join to the server.
 
