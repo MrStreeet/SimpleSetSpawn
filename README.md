@@ -42,8 +42,13 @@ This is my first ever Plugin that I posted in my whole life, I'm a very very new
 
 ## Extras
 
+EXTRAS
 Because this is my first plugin and the first version of it, it will have notorious updates to make it more customizable, more optimized, with effects, and much more!
 So please, this is a very very simple plugin (for the momment), so be aware of future changes comming soon!
+
+Since this is my first plugin... expect bugs :) (I will try to fix them as soon as possible).
+
+[Bugs or Support here!](https://github.com/MrStreeet/SimpleSetSpawn/issues)
 
 ## To add
 
