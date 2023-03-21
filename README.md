@@ -54,6 +54,6 @@ Since this is my first plugin... expect bugs :) (I will try to fix them as soon 
 
 - [X] Update checker
 - [ ] Add a countdown
-- [ ] Add more customization (messages, prefix, etc)
+- [ ] Add more customization (messages & languages)
 - [ ] Teleport effects
 - [ ] Create 1 spawn per world
