@@ -3,7 +3,7 @@
 
 ![SIMPLESETSPAWN-21-3-2023](https://user-images.githubusercontent.com/50084238/226599943-29788034-f90e-4ecc-a7bd-3ded2b15cacf.png)
 
-SimpleSetSpawn it's literally what it name says, a simple set spawn plugin.
+SimpleSetSpawn it's literally what it name says, a simple set spawn plugin
 
 [Download it here!](https://www.spigotmc.org/resources/simplesetspawn.106488/)
 
